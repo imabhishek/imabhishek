@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Abhishek
 
-<img align="right" alt="GIF" src="https://lh3.googleusercontent.com/ka0iIOKbdtr2ONDr1H86HFIEeENcdIe82YGdTwOlQSg-vh17OGI1U3LT24b1fSCIaqQrUstVQE1C_vHJax3rzoRQdMg7B9bLiwSdlgrKeQxlO3cjI2bdVgcYglYN_UMlSKPFZTJERkw=w2400" width="500" height="320" />
-
 <br>
 <p align="center">
 	<a href="https://twitter.com/abhishekcse26"><img src="https://img.shields.io/twitter/follow/abhishekcse26?label=@abhishekcse26&style=social" alt="Twitter"></a>  
