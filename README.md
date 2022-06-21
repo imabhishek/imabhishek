@@ -9,5 +9,5 @@
 </p>
 
 🧑🏽‍💻 Lead at Capgemini Engineering<br>
-📱 Worked on over 10+ apps throughout my career varying from e-commerce to chat to custom apps.<br>
+📱 Worked on over 10+ apps<br>
 
