@@ -8,6 +8,6 @@
 	
 </p>
 
-🧑🏽‍💻 Lead at Capgemini Engineering<br>
+🧑🏽‍💻 Engineering Manager at Capgemini Engineering<br>
 📱 Worked on over 10+ apps<br>
 
