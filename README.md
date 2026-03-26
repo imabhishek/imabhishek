@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Engineering Manager · Android Architect · Backend Engineer</b><br/>
-  <sub>12+ years shipping Android apps used by millions · Spring Boot microservices · Greater Delhi Area, India</sub>
+  <sub>12+ years shipping Android apps used by millions · Spring Boot microservices · New Delhi, India</sub>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ val abhishek = Engineer(
 ![MockK](https://img.shields.io/badge/MockK-Mockito-7F52FF?style=flat)
 
 ---
-
+<!-- 
 ## What I've shipped
 
 | Project | Role | Scale | Stack |
@@ -74,7 +74,7 @@ val abhishek = Engineer(
 | **IKEA Checkout & Order Submission** — Backend | Owner & Lead | 99.9% uptime SLA | Spring Boot · Kafka · Kubernetes · API Gateway |
 | **10+ Play Store apps** | Architect / Senior Dev | 500K+ combined users | Android SDK · MVVM · Firebase |
 
----
+-->
 
 ## Engineering philosophy
 
