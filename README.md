@@ -74,7 +74,7 @@ val abhishek = Engineer(
 | **IKEA Checkout & Order Submission** — Backend | Owner & Lead | 99.9% uptime SLA | Spring Boot · Kafka · Kubernetes · API Gateway |
 | **10+ Play Store apps** | Architect / Senior Dev | 500K+ combined users | Android SDK · MVVM · Firebase |
 
--->
+
 
 ## Engineering philosophy
 
@@ -82,8 +82,8 @@ val abhishek = Engineer(
 - **Test first, ship confidently** — 80%+ coverage on critical paths, test pyramids not test theatre
 - **Performance is a feature** — 35% app startup reduction, 40% crash rate drop, 50% ANR elimination through systematic profiling
 - **People scale code** — mentored 10+ engineers; 2 promoted to senior under my leadership
-
 ---
+-->
 
 ## GitHub stats
 
